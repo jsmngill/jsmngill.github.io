@@ -1,3 +1,4 @@
+## Another Day at Ryaz
 Today, I am on course II of Code with Mosh - The Ultimate HTML5 & CSS3 Series. Part 2 in which I went through the topics of typography, Images, and Forms.
 Here are the brief highlights of each of them
 
